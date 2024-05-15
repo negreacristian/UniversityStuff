@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649084057 source:d:\facultate semestru ii\pp\meniu\proiect3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1650438081 source:d:\backupall\facultate semestru ii\pp\meniu\proiect3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+
