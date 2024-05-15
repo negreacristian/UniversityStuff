@@ -4,19 +4,19 @@
 
 ## Projects
 
-:alien: [Finite Automata](FiniteAutomata/) :
+:alien: [Finite Automata](Finite_Automata/) :
 
 Multiple projects that simulate finite automata through different examples and restrictions.
   
-:camera_flash: [Image Processing](ImageProcessing/) :
+:camera_flash: [Image Processing](Image_Processing/) :
 
 Scripts in python that apply multiple filters, effects and algorithms to images.
   
-:card_file_box: [Operating System](OperatingSystem/) :
+:card_file_box: [Operating System](Operating_System/) :
 
 A simple filesystem implemented as a Linux kernel module.
 
-:page_facing_up: [Personal Project](PersonalProject/) :
+:page_facing_up: [Personal Project](Personal_Project/) :
 
 A music app menu.
 
